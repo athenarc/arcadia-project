@@ -1,0 +1,37 @@
+{
+  "CPU": {
+    "best_params": {
+      "fit_intercept": false,
+      "positive": true
+    },
+    "best_score": 0.9947293636942017
+  },
+  "memory": {
+    "best_params": {
+      "fit_intercept": false,
+      "positive": true
+    },
+    "best_score": 0.9922574792691821
+  },
+  "storage": {
+    "best_params": {
+      "fit_intercept": false,
+      "positive": true
+    },
+    "best_score": 0.9944201224316849
+  },
+  "GPU": {
+    "best_params": {
+      "fit_intercept": true,
+      "positive": true
+    },
+    "best_score": 0.9538507065403179
+  },
+  "DPDK": {
+    "best_params": {
+      "fit_intercept": true,
+      "positive": true
+    },
+    "best_score": 0.9935832641736468
+  }
+}

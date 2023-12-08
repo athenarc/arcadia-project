@@ -1,0 +1,82 @@
+{
+  "CPU": {
+    "best_params": {
+      "bagging_fraction": 0.9898546677103635,
+      "bagging_freq": 9,
+      "boosting_type": "dart",
+      "colsample_bytree": 1.0,
+      "learning_rate": 0.2043933228932242,
+      "max_depth": 22,
+      "min_child_weight": 10,
+      "n_estimators": 286,
+      "num_leaves": 100,
+      "reg_alpha": 0.01,
+      "reg_lambda": 0.6762019584820197
+    },
+    "best_score": 0.9847976304120994
+  },
+  "memory": {
+    "best_params": {
+      "bagging_fraction": 0.9771376072341572,
+      "bagging_freq": 5,
+      "boosting_type": "gbdt",
+      "colsample_bytree": 0.5139932240599407,
+      "learning_rate": 0.017786873795239407,
+      "max_depth": 24,
+      "min_child_weight": 3,
+      "n_estimators": 583,
+      "num_leaves": 43,
+      "reg_alpha": 0.08301750489954501,
+      "reg_lambda": 0.03542705917592794
+    },
+    "best_score": 0.9747853260001328
+  },
+  "storage": {
+    "best_params": {
+      "bagging_fraction": 0.99,
+      "bagging_freq": 10,
+      "boosting_type": "dart",
+      "colsample_bytree": 1.0,
+      "learning_rate": 0.49999999999999994,
+      "max_depth": 1,
+      "min_child_weight": 5,
+      "n_estimators": 2000,
+      "num_leaves": 96,
+      "reg_alpha": 0.01,
+      "reg_lambda": 1.0
+    },
+    "best_score": 0.981668304935463
+  },
+  "GPU": {
+    "best_params": {
+      "bagging_fraction": 0.99,
+      "bagging_freq": 7,
+      "boosting_type": "gbdt",
+      "colsample_bytree": 0.4992873360415474,
+      "learning_rate": 0.136466564554294,
+      "max_depth": 1,
+      "min_child_weight": 1,
+      "n_estimators": 2000,
+      "num_leaves": 98,
+      "reg_alpha": 0.02501150762455858,
+      "reg_lambda": 0.6004395040457874
+    },
+    "best_score": 0.9143817934518049
+  },
+  "DPDK": {
+    "best_params": {
+      "bagging_fraction": 0.99,
+      "bagging_freq": 4,
+      "boosting_type": "gbdt",
+      "colsample_bytree": 1.0,
+      "learning_rate": 0.19620312730915576,
+      "max_depth": 8,
+      "min_child_weight": 5,
+      "n_estimators": 728,
+      "num_leaves": 36,
+      "reg_alpha": 0.26642540910348955,
+      "reg_lambda": 0.02338621018728254
+    },
+    "best_score": 0.9852798838041735
+  }
+}

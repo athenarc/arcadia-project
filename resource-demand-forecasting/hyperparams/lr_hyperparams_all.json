@@ -1,0 +1,7 @@
+{
+  "best_params": {
+    "fit_intercept": false,
+    "positive": true
+  },
+  "best_score": 0.8614594039054471
+}

@@ -1,0 +1,8 @@
+{
+  "lstm_0": 28,
+  "activation": "tanh",
+  "recurrent_activation": "relu",
+  "lstm_1": 252,
+  "dense_0": 156,
+  "learning_rate": 0.01
+}

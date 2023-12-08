@@ -1,0 +1,38 @@
+{
+	"CPU": {
+		"XGBoost": 2.50,
+		"LGBM": 0.63,
+		"LR": 0.015,
+		"LSTM": 4.27
+	},
+	"memory": {
+		"XGBoost": 1.79,
+		"LGBM": 0.76,
+		"LR": 0.015,
+		"LSTM": 4.95
+	},
+	"storage": {
+		"XGBoost": 41.35,
+		"LGBM": 2.73,
+		"LR": 0.015,
+		"LSTM": 4.75
+	},
+	"GPU": {
+		"XGBoost": 1.17,
+		"LGBM": 0.43,
+		"LR": 0.014,
+		"LSTM": 7.64
+	},
+	"DPDK": {
+		"XGBoost": 6.88,
+		"LGBM": 0.19,
+		"LR": 0.015,
+		"LSTM": 5.35
+	},
+	"all": {
+		"XGBoost": 47.82,
+		"LGBM": 6.23,
+		"LR": 0.11,
+		"LSTM": 5.95
+	}
+}

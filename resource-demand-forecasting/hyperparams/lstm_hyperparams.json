@@ -1,0 +1,42 @@
+{
+  "CPU": {
+    "lstm_0": 60,
+    "activation": "tanh",
+    "recurrent_activation": "tanh",
+    "lstm_1": 44,
+    "dense_0": 156,
+    "learning_rate": 0.01
+  },
+  "memory": {
+    "lstm_0": 76,
+    "activation": "sigmoid",
+    "recurrent_activation": "tanh",
+    "lstm_1": 108,
+    "dense_0": 204,
+    "learning_rate": 0.01
+  },
+  "storage": {
+    "lstm_0": 76,
+    "activation": "sigmoid",
+    "recurrent_activation": "tanh",
+    "lstm_1": 108,
+    "dense_0": 204,
+    "learning_rate": 0.01
+  },
+  "GPU": {
+    "lstm_0": 140,
+    "activation": "tanh",
+    "recurrent_activation": "sigmoid",
+    "lstm_1": 156,
+    "dense_0": 28,
+    "learning_rate": 0.01
+  },
+  "DPDK": {
+    "lstm_0": 76,
+    "activation": "tanh",
+    "recurrent_activation": "relu",
+    "lstm_1": 124,
+    "dense_0": 12,
+    "learning_rate": 0.01
+  }
+}

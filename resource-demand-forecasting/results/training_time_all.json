@@ -1,0 +1,14 @@
+{
+	"Single-output": {
+		"XGBoost": 10.73,
+		"LGBM": 0.948,
+		"LR": 0.015,
+		"LSTM": 5.394
+	},
+	"Multi-output": {
+		"XGBoost": 47.82,
+		"LGBM": 6.23,
+		"LR": 0.11,
+		"LSTM": 5.95
+	}
+}

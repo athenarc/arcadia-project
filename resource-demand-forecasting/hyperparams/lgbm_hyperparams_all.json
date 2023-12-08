@@ -1,0 +1,16 @@
+{
+  "best_params": {
+    "bagging_fraction": 0.9344227374408265,
+    "bagging_freq": 5,
+    "boosting_type": "dart",
+    "colsample_bytree": 0.735953879623033,
+    "learning_rate": 0.11646163324267612,
+    "max_depth": 18,
+    "min_child_weight": 4,
+    "n_estimators": 750,
+    "num_leaves": 4,
+    "reg_alpha": 0.029267073805943726,
+    "reg_lambda": 0.11050072996618938
+  },
+  "best_score": 0.9700623162982358
+}

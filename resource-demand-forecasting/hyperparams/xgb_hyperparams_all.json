@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "alpha": 0.13093840416118768,
+    "booster": "dart",
+    "colsample_bytree": 1.0,
+    "gamma": 0.01,
+    "lambda": 0.014429587735082247,
+    "learning_rate": 0.01,
+    "max_depth": 25,
+    "min_child_weight": 1,
+    "n_estimators": 1550
+  },
+  "best_score": 0.9747246469978939
+}

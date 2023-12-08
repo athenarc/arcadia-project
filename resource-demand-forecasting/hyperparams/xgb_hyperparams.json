@@ -1,0 +1,72 @@
+{
+  "CPU": {
+    "best_params": {
+      "alpha": 0.08060039977628876,
+      "booster": "gbtree",
+      "colsample_bytree": 0.6483407915148709,
+      "gamma": 0.01,
+      "lambda": 0.06616997674118372,
+      "learning_rate": 0.02915429505199757,
+      "max_depth": 25,
+      "min_child_weight": 5,
+      "n_estimators": 453
+    },
+    "best_score": 0.9877171049462327
+  },
+  "memory": {
+    "best_params": {
+      "alpha": 0.11312103694699248,
+      "booster": "gbtree",
+      "colsample_bytree": 0.38859231621288903,
+      "gamma": 0.01267784616505165,
+      "lambda": 0.036997891090724495,
+      "learning_rate": 0.04241048423159932,
+      "max_depth": 4,
+      "min_child_weight": 7,
+      "n_estimators": 1057
+    },
+    "best_score": 0.9756727094618366
+  },
+  "storage": {
+    "best_params": {
+      "alpha": 0.11928013760843957,
+      "booster": "dart",
+      "colsample_bytree": 0.35422948358187106,
+      "gamma": 0.01,
+      "lambda": 0.05510154268756766,
+      "learning_rate": 0.01,
+      "max_depth": 25,
+      "min_child_weight": 10,
+      "n_estimators": 2000
+    },
+    "best_score": 0.9850002522558892
+  },
+  "GPU": {
+    "best_params": {
+      "alpha": 0.01,
+      "booster": "gbtree",
+      "colsample_bytree": 0.1809312869122453,
+      "gamma": 0.01,
+      "lambda": 0.05856422525062856,
+      "learning_rate": 0.3025990730101461,
+      "max_depth": 1,
+      "min_child_weight": 5,
+      "n_estimators": 1585
+    },
+    "best_score": 0.9350187580930305
+  },
+  "DPDK": {
+    "best_params": {
+      "alpha": 0.01,
+      "booster": "gbtree",
+      "colsample_bytree": 1.0,
+      "gamma": 0.01,
+      "lambda": 0.49999999999999994,
+      "learning_rate": 0.01722420397426836,
+      "max_depth": 25,
+      "min_child_weight": 10,
+      "n_estimators": 1261
+    },
+    "best_score": 0.9889147481116707
+  }
+}
