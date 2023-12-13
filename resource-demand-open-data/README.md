@@ -1,6 +1,6 @@
 ## Resource Demands Open Data
 
-This is a collection of telco workloads data accompanied with scripts and additional experiment data
+This is a collection of telco workloads data accompanied with scripts and additional experiment data. You can also find the data in Zenodo ()
 
 ### Introduction
 
@@ -20,7 +20,7 @@ Telecommunication cloud services have emerged as crucial components in the conte
 │   ├── pods_request_scenario_A.csv.zip
 │   ├── pods_request_scenario_B_*.csv.zip
 │   └── pods_request_scenario_C_*.csv.zip
-└── data-exploration
+└── notebook
     └── data-plots.ipynb
 ```
 
@@ -29,7 +29,7 @@ Telecommunication cloud services have emerged as crucial components in the conte
   - `pods_request_scenario_A`: Pods resource demands simulating a dynamic workload
   - `pods_request_scenario_B_*`: Pods resource demands simulating a static workload
   - `pods_request_scenario_C_*`: Pods resource demands simulating a balanced (mix of dynamin and static) workload
-- `data-exploration`: Jyputer notebooks for creating plots of the data
+- `notebook`: Jyputer notebooks for data visualization
 
 ### Experiments
 
