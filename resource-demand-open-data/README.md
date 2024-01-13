@@ -1,4 +1,4 @@
-## Resource Demands Open Data
+## Telco Datacenter Resource Demands Open Data
 
 This is a collection of telco workloads data accompanied with scripts and additional experiment data. You can also find the data in Zenodo ()
 
