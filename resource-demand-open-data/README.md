@@ -1,6 +1,6 @@
 ## Telco Datacenter Resource Demands Open Data
 
-This is a collection of telco workloads data accompanied with scripts and additional experiment data. You can also find the data in Zenodo ()
+This is a collection of telco workloads data accompanied with scripts and additional experiment data. You can also find the data in Zenodo (https://zenodo.org/records/10245448)
 
 ### Introduction
 
